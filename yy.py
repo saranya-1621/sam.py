@@ -1,3 +1,4 @@
-aab11=int(input())
-acd12=['Zero','One','Two','Three','Four','Five','Six','Seven','Eight','Nine','Ten']
-print(acd2[aab11])
+a=int(input())
+list=["One","Two","Three","Four","Five","Six","Seven","Eight","Nine","Ten"]
+b=list[a-1]
+print(b)
